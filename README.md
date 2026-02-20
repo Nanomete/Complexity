@@ -7,7 +7,7 @@ It indicates the growth rate of an algorithm. The higher the growth rate, the sl
 <h2>Algorithm Growth Rate and Complexity Comparison</h2>
 
 $$
- O(1)<O(log\ n)<O(\sqrt n)<O(n)<O(n\ log\ n)<O(n^2) < O(2^n) < O(n!) < O(n^n)
+ O(1)\ <\ O(log\ n)\ <\ O(\sqrt n)\ <\ O(n)<O(n\ log\ n)\ <\ O(n^2)\ <\ O(2^n)\ <\ O(n!) < O(n^n)
 $$
 
 <h4>
